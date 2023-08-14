@@ -7,3 +7,16 @@
     color: red;
     font-family: Norse-Bold;
 }
+
+.left-column {
+    height: 100vh;
+    width: 30vw;
+    background-image: url('images/background-leaves.jpg');
+    background-repeat: no-repeat;
+    object-fit: cover;
+}
+
+.logo-wrapper {
+    background-color: black;
+    opacity: 50%;
+}
