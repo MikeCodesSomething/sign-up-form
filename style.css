@@ -1,0 +1,9 @@
+@font-face {
+    font-family: Norse-Bold;
+    src: url(/Norse-Bold.otf);
+  }
+
+* {
+    color: red;
+    font-family: Norse-Bold;
+}
