@@ -1,7 +1,8 @@
 @font-face {
     font-family: Norse-Bold;
-    src: url(/Norse-Bold.otf);
+    src: url(./Norse-Bold.otf);
   }
+  
 
 body, html {
     margin: 0px;
